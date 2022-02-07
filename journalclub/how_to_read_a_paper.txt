@@ -1,0 +1,22 @@
+# How to read a paper
+
+## So many papers..
+* you can not read them all
+
+## When to read papers?
+* interested in a topic / related to your own work
+** you grab an individual paper based on the title and content
+* State-of-the-Art Reports (STAR)
+** summarize a research field with a lot of references
+** include sometimes 100+ papers
+* other ways: you skim papers (you need to..)
+* peer review: you decide whether a paper is acceptable
+
+## What is a good paper?
+* abstract
+* figures + captions
+* conclusion
+
+## HOW TO READ A PAPER
+** Abstract: high-level summary of a paper
+

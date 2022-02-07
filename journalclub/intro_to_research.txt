@@ -1,0 +1,44 @@
+# Intro to Research
+
+## Research in Industry vs. Research in Academia
+* research positions seem to be more flexible in terms of job duties/projects, hours, and dresscode
+* much more money in industry
+
+## Publications
+* Venues: Journals, Conferences 
+** Top Conferences: CVPR, ICML, NeurIPS, ICCV, SigKDD, MICCAI ... (general), but there might be more domain-specific venues (IEEE Visualization, ) (accpetance rate ~20%)
+** Top Journals: Nature, Science..
+* Peer Review
+** other researchers judge your work (2-4)
+* pre-prints on ArXiv
+* Publishers get all the money!
+* Overleaf/Latex are the best way of writing papers
+
+## Citations
+* show how impactful your research is
+* h-index: X number of papers cited X times.. h-index 13: I have 13 papers cited at least 13 times
+* Google Scholar: researcher profiles, search engine for scientific research
+* BibTex (from LaTeX) allows easy citations, Google Scholar has the "CITE" button but also the publishers have cite buttons
+
+## Research in Academia: The Tenure-Track
+* if you get tenured, you have the position for life
+* protection of faculty
+* usually 6 years
+** you start as an Assistant Professor
+** become an Associate Professor
+** after Associate (another 5 years), you become Full Professor
+* Research, Teaching, Service (Research is what counts most)
+* Annual Faculty Report
+* UMass salaries: http://cthrupayroll.mass.gov/
+
+## Grants fund your research
+* Funding Agencies
+** National Science Foundation (success rate ~20%, Future of Work 5%)
+** National Institutes of Health: Co-PI ~$150,000 (I only applied for $100k, UMass Boston charges overhead %52.5)
+** Massachusetts Life Sciences Center $750,000 for equipment (UMB overhead 0%)
+* many other institutes offer funding opportunity, private donors Chan-Zuckerberg Initiative... 
+** 52.5% sounds like a lot of overhead, Harvard Univerity charges 70%
+* to apply for funding: you need multi-page proposals, detailed budgets etc.
+* up to 10 people (peer scientists) decide whether your proposal gets funded
+
+
